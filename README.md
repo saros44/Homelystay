@@ -1,0 +1,1 @@
+This system allows users to easily book hotel rooms, using HTML, CSS, PHP, and MySQL for both the frontend and backend. With a user-friendly interface, it simplifies room selection and booking, making it convenient for both guests and hotel staff to manage reservations.
